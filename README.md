@@ -1,5 +1,7 @@
 # Full-stack SaaS Demo App
 
+Note: Live version on Vercel currently does not work because I'm on the free Supabase plan and need to use the limited number of projects/DBs for other purposes.
+
 ## Features
 
 This demo app is a full-stack recipe SaaS app. It is not meant to be an actual SaaS app, but rather a demo of how one could be built. The 'product' here is the ability to search for recipes. The "free" version allows a limited number of recipe searches, and "paid" versions allow a higher number of recipe searches.
