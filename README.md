@@ -1,6 +1,6 @@
 # Full-stack SaaS Demo App
 
-Note: Live version on Vercel currently does not work because I'm on the free Supabase plan and need to use the limited number of projects/DBs for other purposes.
+> The live version originally deployed on Vercel currently does not work because I'm on the free Supabase plan and need to use the limited number of projects/DBs for other purposes.
 
 ## Features
 
